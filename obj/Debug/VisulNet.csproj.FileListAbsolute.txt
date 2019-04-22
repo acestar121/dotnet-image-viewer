@@ -1,0 +1,11 @@
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\bin\Debug\VisulNet.exe.config
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\bin\Debug\VisulNet.exe
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\bin\Debug\VisulNet.pdb
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\obj\Debug\VisulNet.csprojAssemblyReference.cache
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\obj\Debug\VisulNet.Properties.Resources.resources
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\obj\Debug\VisulNet.csproj.GenerateResource.cache
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\obj\Debug\VisulNet.csproj.CoreCompileInputs.cache
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\obj\Debug\VisulNet.exe
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\obj\Debug\VisulNet.pdb
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\obj\Debug\VisulNet.frmTelaPrincipal.resources
+C:\Users\Edjanilson\Desktop\C# projects\VisulNet\VisulNet\obj\Debug\VisulNet.frmTelaSplash.resources
