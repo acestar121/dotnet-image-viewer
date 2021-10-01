@@ -1,13 +1,13 @@
 VisualNet
 
-Pequeno visualizador de imagens. O objetivo desta aplicação é permitir selecionar uma determinada imagem e em seguida escolher as formas de visualização.
+Small image viewer. The purpose of this application is to allow you to select a certain image and then choose the ways to view it.
 
-Detalhes da implementação
+Implementation Details
 
-Tecnologias utilizadas na implementação:
+Technologies used in implementation:
 
-Sistema feito na linguagem de programação C# usando o template do Windows forms (mesma tecnologia usada nos sistemas operacionais da Microsoft).
+System made in C# programming language using Windows forms template (same technology used in Microsoft operating systems).
 
-Pré-requisitos
+Prerequisites
 
-Instalação do .Net framework (a máquina virtual da plataforma .net)
+Installation of the .Net framework (the virtual machine of the .net platform)
